@@ -12,7 +12,7 @@ A landing page for a Discord bots & services store, built as a **single file** �
 <p>
   <img src="https://img.shields.io/badge/Single%20File-100%25-success?style=flat-square" alt="Single File">
   <img src="https://img.shields.io/badge/RTL-Supported-blue?style=flat-square" alt="RTL">
-  <img src="https://img.shields.io/badge/License-Custom-lightgrey?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT">
 </p>
 
 ---
@@ -109,5 +109,11 @@ It needs an internet connection only to load the font and icons from CDN links; 
 
 **Q: How do I change the red color scheme to something else?**
 Search the file for `#dc2626`, `#ef4444`, and `#b91c1c` (the red shades used) and replace them with your preferred color.
+
+## 📄 License
+
+This project is licensed under the **MIT License** — you're free to use, copy, modify, and distribute it, including for commercial purposes, as long as the original copyright notice is included.
+
+See the [LICENSE](LICENSE) file for full details.
 
 ---
